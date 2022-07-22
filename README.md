@@ -1,0 +1,2 @@
+# Driver-Drowsiness-Detection
+The model has been built to detect a person's eye for few seconds and then the system will alert the driver when drowsiness is detected. The libraries used here are Dlib for face landmarks and to get the eye aspect ratio to detect drowsiness, OpenCV for real time computer vision , to convert the image to grayscale and resize the images, Pygame to play the alarm sound when drowsiness is  detected.
